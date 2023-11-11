@@ -1,4 +1,4 @@
-<h1>Hi, I'm Javier! <br/><a href="https://github.com/javierrcortez">IT Professional</a>, <a href="https://www.linkedin.com/in/javier-cortez/">Cybersecurity Student</a>, <a href="javier-cortez.com">Front-End Developer</a></h1>
+<h1>Hi, I'm Javier! <br/><a href="https://github.com/javierrcortez">IT Professional</a>, <a href="https://www.linkedin.com/in/javier-cortez/">Front-End Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
