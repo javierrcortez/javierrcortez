@@ -1,4 +1,4 @@
-<h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-cortez/">IT Professional, Web Developer</a>☺</h1>
+<h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-cortez/">IT Professional, and Web Developer</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
